@@ -14,3 +14,34 @@ To gain insight on
 
 The knowledge and skills gained from "Management, Access, and Use of Big and Complex Data" topics, such as Cloud Computing, Virtualization, Lifecycles and Pipelines, were used to achieve course project objectives. 
 I hope the information from this course project will provide valuable insights into a better understanding of air pollution, improving policies and strategies for air pollution management, and protecting public health.
+
+## Metadata
+#### Dataset title	
+Global Air Pollution Dataset
+#### Authorship
+HASIB AL MUZDADID
+#### Release date
+11/03/2022
+#### Data location
+https://www.kaggle.com/datasets/hasibalmuzdadid/global-air-pollution-dataset
+#### File name
+global air pollution dataset.csv
+#### Number of records
+23463 
+#### Number of attributes
+12
+#### Attribute information
+Country: Name of the country
+City: Name of the city
+AQI Value: Overall AQI value of the city
+AQI Category: Overall AQI category of the city
+CO AQI Value: AQI value of Carbon Monoxide of the city
+CO AQI Category: AQI category of Carbon Monoxide of the city
+Ozone AQI Value: AQI value of Ozone of the city
+Ozone AQI Category: AQI category of Ozone of the city
+NO2 AQI Value: AQI value of Nitrogen Dioxide of the city
+NO2 AQI Category: AQI category of Nitrogen Dioxide of the city
+PM2.5 AQI Value: AQI value of Particulate Matter with a diameter of 2.5 micrometers or less of the city
+PM2.5 AQI Category: AQI category of Particulate Matter with a diameter of 2.5 micrometers or less of the city
+#### About dataset
+The dataset contains air pollution data from different cities in countries around the world. The air pollution data includes Air Quality Index (AQI) values, carbon monoxide (CO) values, ozone (O3) values, nitrogen dioxide (NO2) values, and particulate matter 2.5 (PM2.5). The air quality is categorized into six categories, including 'Good', 'Moderate', 'Unhealthy for Sensitive Groups', 'Unhealthy', 'Very Unhealthy', and 'Hazardous' based on overall AQI values. 
