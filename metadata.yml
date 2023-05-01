@@ -1,0 +1,22 @@
+Dataset title:	Global Air Pollution Dataset
+Authorship:	HASIB AL MUZDADID
+Release date:	11/03/2022
+Data location:	https://www.kaggle.com/datasets/hasibalmuzdadid/global-air-pollution-dataset
+File name:	global air pollution dataset.csv
+Number of records:	23463 
+Number of attributes:	12
+Attribute information: 
+Country, 
+City, 
+AQI Value, 
+AQI Category, 
+CO AQI Value, 
+CO AQI Category, 
+Ozone AQI Value
+Ozone AQI Category
+NO2 AQI Value
+NO2 AQI Category
+PM2.5 AQI Value
+PM2.5 AQI Category
+About dataset:	
+The dataset contains air pollution data from different cities in countries around the world. The air pollution data includes Air Quality Index (AQI) values, carbon monoxide (CO) values, ozone (O3) values, nitrogen dioxide (NO2) values, and particulate matter 2.5 (PM2.5). The air quality is categorized into six categories, including 'Good', 'Moderate', 'Unhealthy for Sensitive Groups', 'Unhealthy', 'Very Unhealthy', and 'Hazardous' based on overall AQI values. 
